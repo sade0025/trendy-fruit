@@ -13,11 +13,38 @@ html {
   text-size-adjust: 100%;
 }
 
-
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-.max-length{
-  max-width: 50em;
+.title1 {
+  font-family: "Rammetto One", cursive;
+}
+
+.title2 {
+  font-family: "Gravitas One", cursive;
+}
+
+.title3 {
+  font-family: Comfortaa, cursive;
+}
+
+.body {
+  font-family: "Open Sans";
+}
+
+.back1 {
+  background-color: #e97065;
+}
+
+.back2 {
+  background-color: #fbd25e;
+}
+
+.back3 {
+  background-color: #e86033;
+}
+
+body {
+  margin: 0;
 }
